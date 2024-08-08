@@ -32,7 +32,7 @@ Recommended Git Workflow for team collaboration
 Additional features are acceptable after completing the main scenario
 Installation
 Clone the repository:
-git clone git@github.com:miladmahmoodi/daneshkar_python_project.git
+git clone git@github.com:yasamanzolala.2002@gmail.com/daneshkar_python_project.git
 Change to the project directory:
 cd daneshkar_python_project
 Install the required dependencies:
